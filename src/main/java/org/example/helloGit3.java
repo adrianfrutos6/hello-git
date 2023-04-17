@@ -2,6 +2,6 @@ package org.example;
 
 public class helloGit3 {
     public static void main(String[] args) {
-        System.out.println("Hello Git 3 V2!");
+        System.out.println("Hello Git 3 V login!");
     }
 }
